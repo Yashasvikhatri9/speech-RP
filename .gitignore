@@ -2,3 +2,4 @@ best_cn.pt
 features_cache.pkl
 /data
 *.pt
+fit square.ipynb
